@@ -22,12 +22,12 @@
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
-- [⭐ Show your support](#support)
+- [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
 # 📖 Tour Trek   <a name="about-project"></a>
-*[Tour Trek ]*  is a platform that allows you to book  different houses and hassle travel to your favorite destinations. Explore the world with Tour Trek! 
+**[Tour Trek ]**  is a platform that allows you to book  different houses and hassle travel to your favorite destinations. Explore the world with Tour Trek! 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -53,14 +53,14 @@
 ### Key Features <a name="key-features"></a>
 
 
-- *[User authentication and authorization]*
-- *[Search for destinations]*
-- *[Book travel packages]*
-- *[Rent a place for customers ]*
-- *[Cancel bookings]*
-- *[View booking places on the map]*
-- *[Like favorite destinations]*
-- *[View the added rents ]*
+- **[User authentication and authorization]**
+- **[Search for destinations]**
+- **[Book travel packages]**
+- **[Rent a place for customers ]**
+- **[Cancel bookings]**
+- **[View booking places on the map]**
+- **[Like favorite destinations]**
+- **[View the added rents ]**
 
 
 
@@ -86,10 +86,10 @@ Clone this repository to your desired folder:
 https://github.com/ridabensalem/tour-trek.git
  Example commands:
 
-sh
+```sh
   cd my-folder
-https://github.com/ridabensalem/tour-trek.git
-
+https://github.com/ridabensalem/tour-trek.git```
+```
 
 ### Install
 
@@ -101,15 +101,15 @@ Install this project with:
 
 ### Setup Prisma
 
-shell
+```shell
 npx prisma db push
 
-
+```
 
 ### Run Tests
 To run tests for this project
 
-shell
+```shell
 cd testing/
  npm test 'tour-trek.test.js'
 ```
@@ -122,7 +122,7 @@ cd testing/
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 *Author1*
+👤 **Author1**
 
 - GitHub: [@ridabensalem](https://github.com/ridabnesalem)
 - Twitter: [@coder_rida](https://twitter.com/coder_rida)
@@ -133,9 +133,9 @@ cd testing/
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] *[Automated bot for support  ]*
-- [ ] *[Add the filter of prices and guests   ]*
-- [ ] *[Add the edit rented properties on each listing ]*
+- [ ] **[Automated bot for support  ]**
+- [ ] **[Add the filter of prices and guests   ]**
+- [ ] **[Add the edit rented properties on each listing ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,7 +147,7 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ⭐ Show your support <a name="support"></a>
+## ⭐️ Show your support <a name="support"></a>
 
 If you like this project please give it a start and share it with your friends. 
 
