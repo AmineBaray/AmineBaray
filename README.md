@@ -1,16 +1,15 @@
 <!-- Intro  -->
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
-<h3 align="center">
-        <samp><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60">
+<h1 align="center">
+        <samp><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" height="40">
                 Hey There!, I am
                 <b><a target="_blank" href="#">Amine Baray</a></b>
         </samp>
-</h3>
+</h1>
 
 <p align="center"> 
   <samp>
  I am a junior full-stack developer from <b>Morocco</b> 
-    <br>
     <br>
   </samp>
 </p>
@@ -24,10 +23,9 @@
 
 <!-- About Section -->
  # About me
- 
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
+
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: barayamine101@gmail.com<br/><br/>
@@ -56,11 +54,11 @@
 
 <p align="center">
   <a href="https://github.com/AmineBaray">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmineBaray&theme=radical&border=339CFF&background=24292e" alt="Saif's GitHub streak"/>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmineBaray&theme=tokyonight&hide_border=true" alt="AmineBaray" />
   </a>
 </p>
 <a> 
-    <a href="https://github.com/AmineBaray"><img alt="AmineBaray's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AmineBaray&show_icons=true&count_private=true&theme=react&border_color=339CFF&bg_color=24292e&title_color=FFFFFF&icon_color=339CFF" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/AmineBaray"><img alt="AmineBaray's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AmineBaray&show_icons=true&count_private=true&theme=react&border_color=339CFF&bg_color=24292e&title_color=339CFF&icon_color=339CFF" height="192px" width="49.5%"/></a>
   <a href="https://github.com/AmineBaray"><img alt="AmineBaray's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AmineBaray&langs_count=8&layout=compact&theme=react&border_color=339CFF&bg_color=24292e&title_color=FFFFFF&icon_color=339CFF" height="192px" width="49.5%"/></a>
   <br/>
 </a>
