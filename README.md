@@ -1,11 +1,11 @@
 <!-- Intro  -->
-<img align="center" width="350" src="/assets/" alt="Coding gif" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
+        <samp><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+                Hey There!, I am
                 <b><a target="_blank" href="#">Amine Baray</a></b>
         </samp>
 </h3>
-
 
 <p align="center"> 
   <samp>
@@ -42,9 +42,6 @@
  📧 &emsp; Reach me anytime: barayamine101@gmail.com<br/><br/>
 
 </p>
-
-<br/>
-<br/>
 <br/>
 
 ## Languages and Tools:
@@ -63,13 +60,6 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-<br/>
-
-## Top Open Source -
-
-
-<br/>
 <hr/>
 <br/>
 
@@ -78,8 +68,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmineBaray&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
 </p>
-
-
 <a> 
     <a href="https://github.com/AmineBaray"><img alt="AmineBaray's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AmineBaray&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/AmineBaray"><img alt="AmineBaray's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AmineBaray&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
