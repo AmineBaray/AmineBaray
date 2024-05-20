@@ -19,12 +19,6 @@
  <a href="https://www.linkedin.com/in/aminebaray/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="AmineBaray"/>
  </a>
- <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="AmineBaray" />
- </a> 
- <a href="" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="AmineBaray"  />
-  </a> 
 </p>
 <br />
 
@@ -62,12 +56,12 @@
 
 <p align="center">
   <a href="https://github.com/AmineBaray">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmineBaray&theme=radical&border=339CFF&background=" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmineBaray&theme=radical&border=339CFF&background=24292e" alt="Saif's GitHub streak"/>
   </a>
 </p>
 <a> 
-    <a href="https://github.com/AmineBaray"><img alt="AmineBaray's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AmineBaray&show_icons=true&count_private=true&theme=react&border_color=339CFF&bg_color=&title_color=FFFFFF&icon_color=339CFF" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/AmineBaray"><img alt="AmineBaray's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AmineBaray&langs_count=8&layout=compact&theme=react&border_color=339CFF&bg_color=&title_color=FFFFFF&icon_color=339CFF" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/AmineBaray"><img alt="AmineBaray's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AmineBaray&show_icons=true&count_private=true&theme=react&border_color=339CFF&bg_color=24292e&title_color=FFFFFF&icon_color=339CFF" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/AmineBaray"><img alt="AmineBaray's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AmineBaray&langs_count=8&layout=compact&theme=react&border_color=339CFF&bg_color=24292e&title_color=FFFFFF&icon_color=339CFF" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
