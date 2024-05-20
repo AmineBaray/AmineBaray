@@ -66,8 +66,8 @@
   </a>
 </p>
 <a> 
-    <a href="https://github.com/AmineBaray"><img alt="AmineBaray's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AmineBaray&show_icons=true&count_private=true&theme=react&border_color=339CFF&bg_color=339CFF&title_color=339CFF&icon_color=339CFF" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/AmineBaray"><img alt="AmineBaray's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AmineBaray&langs_count=8&layout=compact&theme=react&border_color=339CFF&bg_color=339CFF&title_color=339CFF&icon_color=339CFF" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/AmineBaray"><img alt="AmineBaray's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AmineBaray&show_icons=true&count_private=true&theme=react&border_color=339CFF&bg_color=444547&title_color=339CFF&icon_color=339CFF" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/AmineBaray"><img alt="AmineBaray's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AmineBaray&langs_count=8&layout=compact&theme=react&border_color=339CFF&bg_color=444547&title_color=339CFF&icon_color=339CFF" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
